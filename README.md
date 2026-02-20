@@ -1,35 +1,35 @@
 # V-IDENT: Proof of Personhood & AI-Resistant Verification
 
-**V-IDENT** is a cutting-edge mobile application designed to solve the growing deepfake fraud crisis of 2026. By fusing real-time biometric signals and smartphone sensor data, it provides a "Human Confidence" score that distinguishes real living humans from AI-generated synthetic media.
+**V-IDENT** is a cross platform mobile application designed to solve the growing deepfake fraud crisis of 2026. By fusing real-time biometric signals and smartphone sensor data, it provides a "Human Confidence" score that distinguishes real living humans from AI-generated synthetic media.
 
 ##  App Purpose
 In an era where AI can perfectly mimic faces and voices, traditional CAPTCHAs and biometrics are failing. V-IDENT provides a secure, private, and instant "Proof of Personhood" (PoP) using on-device biometric fusion, ensuring that high-stakes transactions (banking, government, telecommunications) are performed by real humans.
 
 ---
 
-## ✨ Key Features
+## Key Features
 
-### 1. Cyberpunk-Neon UI
-- **Immersive Dark Mode**: Futuristic aesthetics with electric cyan, magenta, and neon green accents.
-- **Dynamic Animations**: Smooth transitions, glowing pulse effects, and interactive holographic elements powered by Reanimated.
 
-### 2. BioSync Fusion Scan (The Core)
+### 1. BioSync Fusion Scan (The Core)
 - **rPPG Pulse Detection**: Real-time heartbeat analysis via camera frame processing.
 - **Eye-Hand Challenge**: Active dot-tracking tasks to detect unnatural micro-saccade patterns.
 - **Biometric Fusion**: Fuses multiple signals (Heart Rate, Eye Gaze, Saccades) into a single trust score.
 
-### 3. Privacy-First Identity
+### 2. Privacy-First Identity
 - **Zero-Knowledge Proofs (ZKP)**: Generates proofs without revealing raw biometric data.
 - **On-Device Only**: No biometric data ever leaves your device or is stored in the cloud.
 - **Secure Enclave**: Encrypted storage for biometric templates.
 
-### 4. Human Compliance Bridge
+### 3. Human Compliance Bridge
 - **Fraud Detection**: Automatic flagging of AI artifacts.
 - **Expert Escalation**: One-tap connection to human compliance officers if confidence scores are low.
 
+### 4. Cyberpunk-Neon UI
+- **Immersive Dark Mode**: Futuristic aesthetics with electric cyan, magenta, and neon green accents.
+- **Dynamic Animations**: Smooth transitions, glowing pulse effects, and interactive holographic elements powered by Reanimated.
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - **Core**: React Native & Expo (Managed Workflow)
 - **Language**: TypeScript (Strict Mode)
@@ -45,7 +45,7 @@ In an era where AI can perfectly mimic faces and voices, traditional CAPTCHAs an
 
 ---
 
-## 📦 Installation & Setup
+## Installation & Setup
 
 Ensure you have [Node.js](https://nodejs.org/) installed on your machine.
 
